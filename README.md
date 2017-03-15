@@ -2,7 +2,7 @@
 
 This example show: How invoke Google Cloud Endpoint from another application using [Service Account](https://developers.google.com/identity/protocols/OAuth2ServiceAccount)
 
-Sometime you need create a integration server-to-server between your application onprimisse and your application on [Google App Engine](https://cloud.google.com/appengine/) and you want to restrict the access for. 
+Sometime you need create a integration server-to-server between application onprimisse and application on [Google App Engine](https://cloud.google.com/appengine/) and you want to restrict the access for. 
 
 One nice and simple solutions is restric the access using Service Account.
 
@@ -30,4 +30,4 @@ To do that you need follow some steps. (To be more didatic I will split the step
 
 ### Create a **web client** in GCP Console
 
-In PROGRESS
+#In PROGRESS
